@@ -1,7 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&size=27&duration=1000&pause=1&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Manual++de+Usuario+de;+El+Viaje+Gramatical+en+el+Tiempo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&size=27&duration=1000&pause=1&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=80&lines=Manual++de+Usuario+de;+El+Viaje+Gramatical+en+el+Tiempo)](https://git.io/typing-svg)
 
 
+<div align="center">
+	
 ![Portada](https://i.postimg.cc/jd5MLpV4/inicio-evgt.png)
+    
+</div>
 
 # Indice 
 
