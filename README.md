@@ -2,7 +2,7 @@
 
 
 
-![Post](https://postimg.cc/vDJrKSZ4)
+![Portada](https://i.postimg.cc/jd5MLpV4/inicio-evgt.png)
 
 # Indice 
 
