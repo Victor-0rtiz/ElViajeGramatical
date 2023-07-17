@@ -93,6 +93,16 @@ Por supuesto que si, los bugs que encuentres se pueden reportar a cualquiera de 
 [Colaborador 5: Víctor Ortiz](https://github.com/Victor-0rtiz)
 
 
+[Pagina web de la documentación del juego](https://victor-0rtiz.github.io/El_Viaje_Gramatical.io/)
+
+
+[Repositorio de la documentación](https://github.com/Victor-0rtiz/El_Viaje_Gramatical.io)
+
+
+
+[Repositorio](https://github.com/Victor-0rtiz/ElViajeGramatical)
+
+
 
 
 
