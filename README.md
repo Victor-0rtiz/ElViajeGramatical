@@ -32,7 +32,7 @@ Este manual esta hecho para ser una guía para los usuarios que quieran darle un
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=435&height=30&lines=+Audiencia)](https://git.io/typing-svg) <a name="audiencia"></a>
 
-Este juego y este manual están destinados tanto para estudiantes del 4to grado del **Colegio Humberto Pavón Fonseca**, así como para el docente de esta asignatura , de igual manera cualquier persona puede leerlo y aprender un poco de como funciona el juego, ya que este busca ser una herramienta de enseñanza aprendizaje, es por eso que no esta limitado a una audiencia especifica, tanto alumnos, maestros, directores, padres de familia y cualquier persona que este interesada en divertirse y aprender puede ser una audiencia.
+El videojuego se diseño gracias a una necesidad de los estudiantes del 4to grado del colegio **"Humberto Pavón Fonseca"** los cuales se consideran la audiencia principal, no obstante dicho videojuego no se limita a ser utilizado solo por ellos si no por cualquier persona que quiera aprender y jugarlo. ¡No te quedes con las ganas  y diviértete!
 >
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=435&height=30&lines=Alcance)](https://git.io/typing-svg)  <a name="alcance"></a>
@@ -46,7 +46,7 @@ Este manual tiene como objetivo que el usuario pueda guiarse y tener una noción
 
  - **Recolección de letras y bayas:** El juego cuenta con la funcionalidad de recolección de ítems, en este caso letras  las cuales forman una palabra en especifico, así mismo con bayas para recolectar, esto ayuda a que el juego tenga mas elementos llamativos e interactivo para los estudiantes. 
 
-- **Puntuación:** Este juego cuenta con un sistema de puntuación, el cual esta dirigido a ser una forma sencilla de medir el progreso de los estudiantes conforme respondan los ítems y pasen los niveles, de esta forma el docente podrá una noción de como los estudiantes están logrando cumplir  con los indicadores  de logro del contenido asignado.
+- **Puntuación:** Este juego cuenta con un sistema de puntuación de 0 a 100, el cual esta dirigido a ser una forma sencilla de medir el progreso de los estudiantes conforme respondan los ítems y pasen los niveles, de esta forma el docente podrá una noción de como los estudiantes están logrando cumplir  con los indicadores  de logro del contenido asignado.
 
 - **Registro de jugadores:** El juego cuenta con un sistema de registro de jugadores en donde muestra cada uno de los puntajes que cada jugador tiene.
 
@@ -63,16 +63,16 @@ Este manual tiene como objetivo que el usuario pueda guiarse y tener una noción
 El juego lo puedes descargar [aquí](https://drive.google.com/drive/folders/1xapbvmagVzRqfHNxOXyul5GfAB4uENdZ?usp=drive_link) o en los links que están abajo de este manual, si tienes problemas con la descarga o instalación del mismo no dudes en contactarte con alguno de los colaboradores.
 
 - **¿Se puede jugar sin conexión a internet?**
-Si, **este juego es completamente offline**, si quieres jugarlo sin conexión a internet este no será ningún impedimento para que juegues :).
+Sí, **este juego es completamente offline**, si quieres jugarlo sin conexión a internet este no será ningún impedimento para que juegues :).
 
 - **¿El juego es de paga?**
 No, **este juego es completamente gratis**, puedes descargarlo en los links de abajo sin ningún costo ya sea antes o después de su instalación.
 
 - **¿Este juego tiene un objetivo?**
-Si, el objetivo de este juego es ser una **herramienta** que apoye en el momento de enseñanza aprendizaje, ya que busca ayudar, divertir y poner en practica lo aprendido del contenido **oraciones simples**.
+Sí, el objetivo de este juego es ser una **herramienta** que apoye en el momento de enseñanza aprendizaje, ya que busca ayudar, divertir y poner en practica lo aprendido del contenido **oraciones simples**.
 
 - **¿Puedo jugarlo aun si no soy un estudiante?**
-Si, aunque este juego este hecho para una audiencia, no solo se limita a la misma, si no a cualquiera que tenga ganas de jugar y aprender, así que no te quedes sin las ganas y juégalo :).
+Sí, aunque este juego este hecho para una audiencia, no solo se limita a la misma, si no a cualquiera que tenga ganas de jugar y aprender, así que no te quedes sin las ganas y juégalo :).
 
 - **¿Si encuentro un bug lo puedo reportar?**
 Por supuesto que si, los bugs que encuentres se pueden reportar a cualquiera de los colaboradores del juego, estaremos encantados de leerte. 
