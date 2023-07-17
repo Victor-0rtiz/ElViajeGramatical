@@ -100,7 +100,7 @@ Por supuesto que si, los bugs que encuentres se pueden reportar a cualquiera de 
 
 
 
-[Repositorio](https://github.com/Victor-0rtiz/ElViajeGramatical)
+[Repositorio de scripts](https://github.com/Victor-0rtiz/ElViajeGramatical)
 
 
 
