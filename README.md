@@ -48,7 +48,7 @@ Este manual tiene como objetivo que el usuario pueda guiarse y tener una noción
 
 - **Puntuación:** Este juego cuenta con un sistema de puntuación, el cual esta dirigido a ser una forma sencilla de medir el progreso de los estudiantes conforme respondan los ítems y pasen los niveles, de esta forma el docente podrá una noción de como los estudiantes están logrando cumplir  con los indicadores  de logro del contenido asignado.
 
-- **Registro de jugadores:** El juego cuenta con un sistema de registro de jugadores en donde muestra a cada uno con el puntaje que cada uno tiene.
+- **Registro de jugadores:** El juego cuenta con un sistema de registro de jugadores en donde muestra cada uno de los puntajes que cada jugador tiene.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=535&height=30&lines=Posibles+problemas+o+bugs)](https://git.io/typing-svg)  <a name="posibles-problemas-o-bugs"></a>
 
@@ -60,7 +60,7 @@ Este manual tiene como objetivo que el usuario pueda guiarse y tener una noción
 
 
 - **¿Cómo se descarga el juego?**
-El juego lo puedes descargar[aquí](https://drive.google.com/drive/folders/1xapbvmagVzRqfHNxOXyul5GfAB4uENdZ?usp=drive_link) o en los links que están abajo de este manual, si tienes problemas con la descarga o instalación del mismo no dudes en contactarte con alguno de los colaboradores.
+El juego lo puedes descargar [aquí](https://drive.google.com/drive/folders/1xapbvmagVzRqfHNxOXyul5GfAB4uENdZ?usp=drive_link) o en los links que están abajo de este manual, si tienes problemas con la descarga o instalación del mismo no dudes en contactarte con alguno de los colaboradores.
 
 - **¿Se puede jugar sin conexión a internet?**
 Si, **este juego es completamente offline**, si quieres jugarlo sin conexión a internet este no será ningún impedimento para que juegues :).
@@ -81,16 +81,16 @@ Por supuesto que si, los bugs que encuentres se pueden reportar a cualquiera de 
 
 [ Descarga el juego aqui ](https://drive.google.com/drive/folders/1xapbvmagVzRqfHNxOXyul5GfAB4uENdZ?usp=drive_link)
 
-[Colaborador 1:  Abraham Luna](abrahamjosueacevedoluna@gmail.com)
+[Colaborador 1:  Abraham Luna](https://github.com/AbrahamAcevedo)
 
-[Colaborador 2: Engel Calderón](engelcalderon583@gmail.com)
+[Colaborador 2: Engel Calderón](https://github.com/engelruiz)
 
-[Colaborador 3: Mariela Medina](medinamariela090122@gmail.com)
+[Colaborador 3: Mariela Medina](https://github.com/medi-na)
 
-[Colaborador 4: Michell Calero](michelleaguirre279@gmail.com)
+[Colaborador 4: Michell Calero](https://github.com/Michichel)
 
 
-[Colaborador 5: Víctor Ortiz](vicjosneros@gmail.com)
+[Colaborador 5: Víctor Ortiz](https://github.com/Victor-0rtiz)
 
 
 
