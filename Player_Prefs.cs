@@ -35,7 +35,7 @@ public class Player_Prefs : MonoBehaviour
         if (!string.IsNullOrEmpty(playerName))
         {
             // Si el PlayerName tiene un nombre asignado, cargar la escena "4"
-            SceneManager.LoadScene(4);
+            SceneManager.LoadScene(5);
         }
     }
 
@@ -55,6 +55,6 @@ public class Player_Prefs : MonoBehaviour
         PlayerPrefs.SetString("UsuarioActual", nombre);
         PlayerPrefs.Save();
         Debug.Log("Nombre guardado: " + nombre);
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(5);
     }
 }
