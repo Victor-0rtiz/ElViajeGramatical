@@ -39,7 +39,7 @@ Este juego y este manual están destinados tanto para estudiantes del 4to grado 
 
 Este manual tiene como objetivo que el usuario pueda guiarse y tener una noción de las funcionalidades del juego, en donde este busca tener un alcance significativo de los indicadores de logro del contenido **oraciones simples** en la asignatura de **Lengua y Literatura**, por ende otros logros fuera del contenido .... no son abarcados en este juego, es por eso que se espera comprensión si ciertos aspectos no son tocados en el mismo.  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=535&height=30&lines=Gu%C3%ADa+de+las+principales+funciones+de+la+aplicaci%C3%B3n)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=535&height=30&lines=Gu%C3%ADa+de+las+principales+funciones+de+la+aplicaci%C3%B3n)](https://git.io/typing-svg) <a name="guía-de-las-principales-funciones-de-la-aplicación"></a>
 
  - **Plataformero:** este juego esta diseñado siguiendo una estética plataformera,  como los primeros juegos que existieron, se busco crearlo de esta forma ya que estos juegos llaman la atención de los estudiantes, al divertirse y aprender se genera una buen experiencia en el momento de enseñanza aprendizaje, esto es significativo a la hora de motivar a los alumnos para que puedan cumplir con los indicadores de logro.
  
@@ -50,13 +50,52 @@ Este manual tiene como objetivo que el usuario pueda guiarse y tener una noción
 
 - **Registro de jugadores:** El juego cuenta con un sistema de registro de jugadores en donde muestra a cada uno con el puntaje que cada uno tiene.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=535&height=30&lines=Posibles+problemas+o+bugs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=535&height=30&lines=Posibles+problemas+o+bugs)](https://git.io/typing-svg)  <a name="posibles-problemas-o-bugs"></a>
 
  El juego cuenta con sistema de registro de jugadores por lo cual a veces el nombre no se pueda guardar bien, en caso de presentar fallas se puede reiniciar el juego, si las fallas son persistentes puedes comunicarte con los creadores o con el colaborador del repositorio aquí
  
  - [Github](https://github.com/Victor-0rtiz)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=535&height=30&lines=Preguntas+frecuentes+y+contacto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lunasima&weight=700&duration=3998&pause=1000&vCenter=true&width=535&height=30&lines=Preguntas+frecuentes+y+contacto)](https://git.io/typing-svg) <a name="preguntas-frecuentes-y-contacto"></a>
+
+
+- **¿Cómo se descarga el juego?**
+El juego lo puedes descargar[aquí](https://drive.google.com/drive/folders/1xapbvmagVzRqfHNxOXyul5GfAB4uENdZ?usp=drive_link) o en los links que están abajo de este manual, si tienes problemas con la descarga o instalación del mismo no dudes en contactarte con alguno de los colaboradores.
+
+- **¿Se puede jugar sin conexión a internet?**
+Si, **este juego es completamente offline**, si quieres jugarlo sin conexión a internet este no será ningún impedimento para que juegues :).
+
+- **¿El juego es de paga?**
+No, **este juego es completamente gratis**, puedes descargarlo en los links de abajo sin ningún costo ya sea antes o después de su instalación.
+
+- **¿Este juego tiene un objetivo?**
+Si, el objetivo de este juego es ser una **herramienta** que apoye en el momento de enseñanza aprendizaje, ya que busca ayudar, divertir y poner en practica lo aprendido del contenido **oraciones simples**.
+
+- **¿Puedo jugarlo aun si no soy un estudiante?**
+Si, aunque este juego este hecho para una audiencia, no solo se limita a la misma, si no a cualquiera que tenga ganas de jugar y aprender, así que no te quedes sin las ganas y juégalo :).
+
+- **¿Si encuentro un bug lo puedo reportar?**
+Por supuesto que si, los bugs que encuentres se pueden reportar a cualquiera de los colaboradores del juego, estaremos encantados de leerte. 
+
+<p align="center"> Links  de contacto y descarga </p>
+
+[ Descarga el juego aqui ](https://drive.google.com/drive/folders/1xapbvmagVzRqfHNxOXyul5GfAB4uENdZ?usp=drive_link)
+
+[Colaborador 1:  Abraham Luna](abrahamjosueacevedoluna@gmail.com)
+
+[Colaborador 2: Engel Calderón](engelcalderon583@gmail.com)
+
+[Colaborador 3: Mariela Medina](medinamariela090122@gmail.com)
+
+[Colaborador 4: Michell Calero](michelleaguirre279@gmail.com)
+
+
+[Colaborador 5: Víctor Ortiz](vicjosneros@gmail.com)
+
+
+
+
+
 
 
 
